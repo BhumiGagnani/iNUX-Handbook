@@ -1,8 +1,0 @@
-
-remote_theme: gw-inux/inux-handbook
-#logo: "logo.png"
-title: iNUX Handbook
-description: iNUX Handbook for working with and contributing to iNUX educational materials
-baseurl: "/gw-inux" # the subpath of your site, e.g. /blog
-url: "https://gw-inux.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#markdown: CommonMarkGhPages #kramdown 
