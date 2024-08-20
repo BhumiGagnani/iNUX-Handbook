@@ -20,11 +20,11 @@ If you click **launch** without further information, you will generate a link th
 
 Further information is required to generate a Voila Dashboard from the Jupyter Notebook. An additional link is required in the textbox **URL to open (optional)**, which is `voila/render/PATH/TO/Notebook.ipynb`. Make sure that you select **URL** beside the textbox. Next, click the **launch** button to initiate the process of generating the MyBinder link. Then copy the URL of the MyBinder-Voila Notebook for further use.
 
-<img src="C:\Users\Reimann\Dropbox\50 PY\PYTHON_GIT\iNUX-Handbook\docs\assets\images\JuNo\JuNo001.png" alt="**Figure:** MyBinder user interface to generate a Voila dashboard based on a suitable Jupyter Notebook" style="zoom:50%;" />
+<img src="/assets/images/JuNo/JuNo001.png" alt="**Figure:** MyBinder user interface to generate a Voila dashboard based on a suitable Jupyter Notebook" style="zoom:50%;" />
 
 Generating a link to run a single Jupyter Notebook
 
 To generate a direct link to a Jupyter Notebook, put `notebooks/PATH/TO/Notebook.ipynb` in the **URL to open (optional)** textbox. Next, click the **launch** button to initiate the process of generating the MyBinder link, and copy the URL of the MyBinder-Notebook for further use.
 
-<img src="C:\Users\Reimann\Dropbox\50 PY\PYTHON_GIT\iNUX-Handbook\docs\assets\images\JuNo\JuNo002.png" alt="**Figure:** MyBinder user interface to generate a Jupyter Notebook based on a suitable Jupyter Notebook" style="zoom:50%;" />
+<img src="/assets/images/JuNo/JuNo002.png" alt="**Figure:** MyBinder user interface to generate a Jupyter Notebook based on a suitable Jupyter Notebook" style="zoom:50%;" />
 
