@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Document 01
 layout: home
 ---
 
