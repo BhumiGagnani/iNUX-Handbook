@@ -1,7 +1,7 @@
 ---
 title: Jupyter Notebooks - Templates, Tutorials, and Workflows
 layout: home
-nav_order: 1
+nav_order: 2
 parent: Jupyter Notebooks
 has_children: true
 ---
