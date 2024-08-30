@@ -1,9 +1,9 @@
 ---
-title: General aspects - Terminology
+title: Workshop - General aspects: Terminology
 layout: home
 nav_order: 3
-parent: General aspects
 grandparent: Workshop
+parent: Workshop - General aspects
 has_children: false
 ---
 

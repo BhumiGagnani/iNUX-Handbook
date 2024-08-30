@@ -1,9 +1,9 @@
 ---
 title: General aspects - Overview: Ongoing
 layout: home
-nav_order: 3
-grandparent: General aspects
-parent: General aspects - Overview
+nav_order: 2
+grandparent: Workshop - General aspects
+parent: Workshop - General aspects: Overview
 has_children: false
 ---
 

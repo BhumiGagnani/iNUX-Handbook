@@ -1,9 +1,9 @@
 ---
-title: General aspects - Overview
+title: Workshop - General aspects: Overview
 layout: home
 nav_order: 4
 parent: Workshop
-has_children: false
+has_children: true
 ---
 
 # General aspects of interactive education - Overview

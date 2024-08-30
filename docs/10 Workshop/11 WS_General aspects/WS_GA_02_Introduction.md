@@ -1,9 +1,9 @@
 ---
-title: General aspects - Introduction
+title: Workshop - General aspects: Introduction
 layout: home
 nav_order: 2
-parent: General aspects
 grandparent: Workshop
+parent: Workshop - General aspects
 has_children: false
 ---
 

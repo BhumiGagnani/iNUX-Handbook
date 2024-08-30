@@ -1,8 +1,9 @@
 ---
-title: General aspects - Motivation
+title: Workshop - General aspects: Motivation
 layout: home
 nav_order: 1
-parent: Workshop
+grandparent: Workshop
+parent: Workshop - General aspects
 has_children: false
 ---
 
