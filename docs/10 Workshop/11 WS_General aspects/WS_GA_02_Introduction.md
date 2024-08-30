@@ -2,7 +2,7 @@
 title: Workshop - General aspects: Introduction
 layout: home
 nav_order: 2
-grandparent: Workshop
+grand_parent: Workshop
 parent: Workshop - General aspects
 has_children: false
 ---

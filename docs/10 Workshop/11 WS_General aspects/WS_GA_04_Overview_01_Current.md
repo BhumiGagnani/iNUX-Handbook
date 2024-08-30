@@ -2,7 +2,7 @@
 title: General aspects - Overview: Current state
 layout: home
 nav_order: 1
-grandparent: Workshop - General aspects
+grand_parent: Workshop - General aspects
 parent: Workshop - General aspects: Overview
 has_children: false
 ---
