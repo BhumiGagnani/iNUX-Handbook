@@ -7,3 +7,5 @@ has_children: true
 ---
 
 # General aspects
+
+The general aspects of the workshop are reflected by the (following presentation)[presentation file here].

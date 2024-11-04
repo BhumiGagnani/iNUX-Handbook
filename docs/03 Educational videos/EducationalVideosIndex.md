@@ -2,7 +2,7 @@
 title: Educational Videos
 layout: home
 nav_order: 4
-has_children: false
+has_children: true
 ---
 
 # Educational Videos
